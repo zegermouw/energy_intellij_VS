@@ -6,6 +6,9 @@ Intel Power Gadget
 Intellij
 Visual Studio Code (Including the extension Code Runner)
 
+!Important!
+The experiments are run in a Windows Operating System. For MacOS or Linux, the code might need to change
+
 After all the software is installed, the power log can be started with the following command.
 
 "C:\Program Files\Intel\Power Gadget 3.6\PowerLog3.0.exe" -file filename.csv -cmd python main.py arg1 arg2
